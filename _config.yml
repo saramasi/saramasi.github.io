@@ -1,0 +1,85 @@
+# Site settings
+title: "Notes & Stuff"
+author: "Marco Rizzoli"
+email: marco@rizzoli.me.uk
+baseurl: ""
+url: http://rizzoli.me.uk
+title_description: "Pagina di presentazione scrollabile verso il basso
+in stile portfolio, per accedere all'archivio del sito con le categorie e
+le tags clicca sul link nel titolo"
+title_image: "https://www.gravatar.com/avatar/8c19d329a182c796d7f0df65fbfd8434?s=500&d=mm"
+google_analytics: ""
+disqus_account: 
+github_repository: github/mrizzoli
+addthis_id: 
+post_limit: 5
+
+##Defaults values for new posts
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      published: "true"
+      layout: "post"
+      
+
+
+##Social links:
+  
+share:
+  facebook: true
+  twitter: true
+  gplus: true
+  linkedin: true
+  pinterest: true
+  email: true
+
+social:
+  github: 
+  stackoverflow: ''
+  linkedin:
+  instagram: ''
+  lastfm: ''
+  rss: feed.xml
+
+# Google Analytics key, leave blank to ignore
+google_analytics_key:
+# Yandex metrica (https://metrica.yandex.com/) leave blank to ignore or put true to use
+yandex_metrica:
+
+
+# Set this to your disqus shortname to enable comments. Note that the 'comments'
+# setting below must also be true. Individual posts can override 'comments' to
+# disable on a post-by-post basis
+disqus: 
+comments: false
+
+permalink: /:year/:month/:title
+
+exclude: ['README.md', 'LICENSE', Gemfile]
+
+###This section is to be uncommented to use jekyll-pandoc extension
+###for citations and bibliographic management: doesn't work on github
+###pages, the site has to be built locally (the build environment
+###requires pandoc and pandoc-citeproc) and then uploaded
+
+# scholar:
+#   style: apa
+#   sort_by: year
+#   order: descending
+#   source: $PWD/biblio
+#   bibliography: biblio.bib
+
+# plugins:
+#   - jekyll-pandoc
+ 
+
+# markdown: Pandoc
+# pandoc:
+#   extensions:
+#   - smart
+#   - bibliography: $PWD/biblio/biblio.bib
+  

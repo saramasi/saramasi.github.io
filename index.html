@@ -1,0 +1,59 @@
+---
+layout: home_page
+make-smaller-titles: true
+---
+
+<div class="container-fluid ">
+  <div class="row">
+    <div class="col-md-12 main content-panel">
+
+      <section id="profile">
+        <div class="gravatar">
+          <img src="{{ site.title_image }}" class="img-circle about-image" height="150" width="150" alt="{{ site.title }}" />
+        </div>
+
+        <h1 class="header author-header" itemprop="headline"><a href="{{site.url}}/notebook">{{ site.title }}</h1></a>
+
+        <div class="author-text">
+          {{ site.title_description }}
+        </div>
+      </section>
+        <div class="row align-items-end bottom-buttons">
+          <a href="#repos" data-scroll><i class="icon fa fa-angle-double-down fa-3x"></i></a>
+        </div>
+
+      <section id="repos">
+
+        <h2 class="header author-header"> Github Repos </h2>
+        {% for repository in site.github.public_repositories %}
+        <div class="col-md-4">
+          <h2 class="post-title">
+           <a href="{{repository.html_url}}"> {{ repository.name }}</a>
+          </h2>
+          <div class="post-descr">
+            <p>
+              {{ post.description }}
+            </p>
+          </div>
+        </div>
+        {% endfor %}
+      </section>
+        <div class="row align-items-end bottom-buttons fixed-bottom">
+          <a href="#history" data-scroll><i class="icon fa
+          fa-angle-double-down fa-3x"></i></a>
+        </div>
+
+      <section id="history">
+
+        <h2 class="header author-header"> My Geographic History</h2>
+        <br />
+        <script src="https://embed.github.com/view/geojson/mrizzoli/mrizzoli.github.io/master/my_geographic_history.json?width=1130"></script>
+      </section>
+        <div class="row align-items-end bottom-buttons">
+          <a href="#profile" data-scroll><i class="icon fa
+          fa-angle-double-up fa-3x"></i></a>
+        </div>
+
+    </div>
+  </div>
+</div>  
