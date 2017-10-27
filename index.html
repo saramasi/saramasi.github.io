@@ -19,16 +19,16 @@ make-smaller-titles: true
         </div>
       </section>
         <div class="row align-items-end bottom-buttons">
-          <a href="#repos" data-scroll><i class="icon fa fa-angle-double-down fa-3x"></i></a>
+          <a href="#fiabe" data-scroll><i class="icon fa fa-angle-double-down fa-3x"></i></a>
         </div>
 
-      <section id="repos">
+      <section id="fiabe">
 
-        <h2 class="header author-header"> Github Repos </h2>
-        {% for repository in site.github.public_repositories %}
+        <h2 class="header author-header"> Le mie Fiabe </h2>
+        {% for post in site.posts %}
         <div class="col-md-4">
           <h2 class="post-title">
-           <a href="{{repository.html_url}}"> {{ repository.name }}</a>
+           <a href="{{post.url}}"> {{ post.name }}</a>
           </h2>
           <div class="post-descr">
             <p>
@@ -47,7 +47,7 @@ make-smaller-titles: true
 
         <h2 class="header author-header"> My Geographic History</h2>
         <br />
-        <script src="https://embed.github.com/view/geojson/mrizzoli/mrizzoli.github.io/master/my_geographic_history.json?width=1130"></script>
+        <script src="https://embed.github.com/view/geojson/saramasi/saramasi.github.io/master/my_geographic_history.json?width=1130"></script>
       </section>
         <div class="row align-items-end bottom-buttons">
           <a href="#profile" data-scroll><i class="icon fa
