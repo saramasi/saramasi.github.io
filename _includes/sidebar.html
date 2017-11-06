@@ -10,11 +10,11 @@
 <div class="sidebar">
   <h2>Tags</h2>
   <ul class="sideBarTags">
-    {% assign tags = (site.tags | sort:0) %}
-    {% for tag in tags %}
+    {% assign categories = (site.categories | sort:0) %}
+    {% for category in categories %}
     <li>
-      <a href="{{site.url}}{{site.baseurl}}/tag/{{ tag[0] }}" data-toggle="tooltip" data-placement="right" title="{{ tag[1].size }}">
-        <span>{{tag[0] }}</span></a></li>
+      <a href="{{site.url}}{{site.baseurl}}{{ category[0] }}" data-toggle="tooltip" data-placement="right" title="{{ category[1].size }}">
+        <span>{{category[0] }}</span></a></li>
     {% endfor %}
   </ul>
 </div>
