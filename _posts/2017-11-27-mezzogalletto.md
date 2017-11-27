@@ -6,9 +6,16 @@ published: true
   La forza della promessa e speranza. Dove l'amore crea magia e la fortuna ti
   porta a fare un effervescente viaggio, nel nome del rispetto, dell'amicizia,
   amore e della sopravvivenza.
+title: Il mezzo gallettino
+categoty: avventura
+abstracht: >-
+  La forza della promessa e speranza. Dove l'amore crea magia e la fortuna ti
+  porta a fare un effervescente viaggio, nel nome del rispetto, dell'amicizia,
+  amore e della sopravvivenza.
 ---
 
 C'era una volta, e una volta non c'era, non molto lontano da qui...
+
 Una famiglia molto povera, con una mamma e due bambine, l'unico bene in loro possesso era un galletto e basta.
 Quando arrivò il giorno in cui la madre morì, le due sorelle si trovarono a spartire la misera eredità.
 La più grande disse:
