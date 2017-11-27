@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 '-title': Il mezzo gallettino
 '-categoty': avventura
 '-abstracht': >-
