@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Mi Matragna
 category: fiabe
 abstract: >-
