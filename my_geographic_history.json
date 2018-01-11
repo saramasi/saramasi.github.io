@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Torino",
-        "Description": ""
+        "Description": "Scuola di Teatro Fisico"
       },
       "geometry": {
         "type": "Point",
@@ -40,6 +40,224 @@
         "coordinates": [
           12.484588623046875,
           41.88592102814744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15917968749999,
+          -16.425547506916725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Valparaiso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.03759765625,
+          -33.229498141449504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mexico",
+        "Description": "Circo Inzir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.12689208984374,
+          19.435514339097825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Guatemala",
+        "Description": "Circo Inzir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5712890625,
+          14.668625907385914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Buenos Aires",
+        "Description": "Scuola di Teatro - Mimo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.27148437499999,
+          -34.56085936708384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kalymnos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.984138488769528,
+          36.95071489337165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Barcellona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1533203125,
+          41.376808565702355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Madrid",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69140625,
+          40.413496049701955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Berlino",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.403320312499998,
+          52.50953477032727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Amsterdam",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.924621582031249,
+          52.377275885161175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sardegna",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0087890625,
+          40.04443758460856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sicilia",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.414062499999998,
+          37.50972584293751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Monopoli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.303810119628906,
+          40.95423346865315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5849609375,
+          21.87169463514272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Etiopia",
+        "Description": "Circo Inzir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.605712890625,
+          8.298470297067356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rifugio Questa",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.216279506683349,
+          44.18277330646878
         ]
       }
     }
