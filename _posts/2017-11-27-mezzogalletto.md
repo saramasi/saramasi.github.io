@@ -13,9 +13,6 @@ abstracht: >-
   porta a fare un effervescente viaggio, nel nome del rispetto, dell'amicizia,
   amore e della sopravvivenza.
 ---
-                     
-       IL MEZZO GALLETTINO
-
 C'era una volta, e una volta non c'era, non molto lontano da qui...
 
 Una famiglia molto povera, con una mamma e due bambine, l'unico bene in loro possesso era un galletto e niente più.
