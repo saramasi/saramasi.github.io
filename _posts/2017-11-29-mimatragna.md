@@ -8,9 +8,6 @@ abstract: >-
   conseguenze che produce il conflitto con questo. Alla fine tutto il bene
   trionferà se sarà supportato dall'amore.
 ---
-
-MI MATRAGNA
-
 ##La mia matrigna
 
 C' era una volta, e una volta non c'era, non molto lontano da qui... 
