@@ -11,7 +11,7 @@ abstract: >-
 
 ##La mia matrigna
 
-C' era una volta, e una volta non c'era, non molto lontano da qui... 
+C'era una volta, e una volta non c'era, non molto lontano da qui... 
 
 Una famiglia che viveva in mezzo ai boschi in una piccola casina di legno, in mezzo ai pini e ai fiori.
 
@@ -90,7 +90,3 @@ u'n eter sdaura strampalè
 che per il fangein
 at sentè solamaint
 un brut quel.
-
-
-
-
