@@ -30,7 +30,9 @@ La più grande disse
 Fu così, che alla bimba più piccola rimase la testa, mezzo corpicino, un'aletta e una zampina. Una volta ricucito, lo tenne in braccio per un giorno e una notte intera, poi vedendo che stava bene, lo mise a terra e disse
 
 "Gallettino! Sei così piccolo, hai solo una zampina, fammi vedere come te la cavi a saltellare!"
-Il piccolo animaletto si scoprì un ottimo saltatore e vedendo questo la bimba disse:
+
+Il piccolo animaletto si scoprì un ottimo saltatore e vedendo questo la bimba disse
+
 ”Sei bravissimo! Con questi salti in un giorno copriresti distanze che un gallo intero non coprirebbe in un mese di viaggio. Vai piccolo mio, vai in cerca di fortuna e se la trovi torna da me!"
 
 Il mezzo gallettino partì, con tre balzi attraversò un'intera valle e sopra alle montagne facendo salti da una vetta all'altra.
