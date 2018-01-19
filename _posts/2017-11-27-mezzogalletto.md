@@ -1,7 +1,7 @@
 ---
 published: true
 '-title': Il mezzo gallettino
-'-categoty': avventura
+'-categoty': QUADRATO
 '-abstracht': >-
   La forza della promessa e speranza. Dove l'amore crea magia e la fortuna ti
   porta a fare un effervescente viaggio, nel nome del rispetto, dell'amicizia,
