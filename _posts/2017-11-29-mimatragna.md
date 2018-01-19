@@ -1,7 +1,7 @@
 ---
 published: true
 title: Mi Matragna
-category: fiabe
+category: CERCHIO
 abstract: >-
   Una storia vera, una donna entrata in famiglia improvvisamente che non riesce
   a capire la bellezza del mondo, una breve storia che parla del karma e delle
