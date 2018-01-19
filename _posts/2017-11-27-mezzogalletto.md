@@ -17,6 +17,7 @@ abstracht: >-
   La forza della promessa e speranza. Dove l'amore crea magia e la fortuna ti
   porta a fare un effervescente viaggio, nel nome del rispetto, dell'amicizia,
   amore e della sopravvivenza.
+category: QUADRATO
 ---
 C'era una volta, e una volta non c'era, non molto lontano da qui...
 
