@@ -8,8 +8,8 @@ make-smaller-titles: true
     <div class="col-md-12 main content-panel">
 
       <section id="profile">
+        <img src="{{ site.title_image }}" class="img-circle about-image" height="150" width="150" alt="{{ site.title }}" />
         <div class="gravatar">
-          <img src="{{ site.title_image }}" class="img-circle about-image" height="150" width="150" alt="{{ site.title }}" />
         </div>
 
         <h1 class="header author-header" itemprop="headline"><a href="/post_list.html">{{ site.title }}</h1></a>
@@ -19,10 +19,10 @@ make-smaller-titles: true
         </div>
       </section>
         <div class="row align-items-end bottom-buttons">
-          <a href="#fiabe" data-scroll><i class="icon fa fa-angle-double-down fa-3x"></i></a>
+          <a href="#distory" data-scroll><i class="icon fa fa-angle-double-down fa-3x"></i></a>
         </div>
 
-      <section id="fiabe">
+      <!-- <section id="fiabe">
 
         <h2 class="header author-header"> Le mie Fiabe </h2>
         {% for post in site.posts limit:3 %}
@@ -41,7 +41,7 @@ make-smaller-titles: true
         <div class="row align-items-end bottom-buttons fixed-bottom">
           <a href="#history" data-scroll><i class="icon fa
           fa-angle-double-down fa-3x"></i></a>
-        </div>
+        </div> -->
 
       <section id="history">
 
@@ -56,4 +56,4 @@ make-smaller-titles: true
 
     </div>
   </div>
-</div>  
+</div>
